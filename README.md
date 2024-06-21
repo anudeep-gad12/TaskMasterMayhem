@@ -1,38 +1,32 @@
-# Todo App
+# Task Master Mayhem
 
-This Todo App is not just another to-do list.
+This ain't your grandma's to-do list.
 
-## Features
+## Mayhem Features
 
-- **Add Todos**: Jot down all you need to do
-- **Complete Todos**: Mark it!
-- **Delete Todos**: Get rid of tasks
-- **Edit Todos**: Made a mistake? No worries, edit it
-- **Remaining Todos**: Keep track of how much stuff you’ve got left.
+- **Add some Chaos**: Write down all your crazy tasks.
+- **Complete Chaos**: Check it off when you've conquered it!
+- **Delete Chaos**: Trash those tasks like yesterday’s junk.
+- **Edit Chaos**: Messed up? Fix it up, no biggie.
+- **Track the Madness**: See what's left in your whirlwind of tasks.
 
-## Getting Started
+## Unleash the Mayhem
 
-Want to get this running? Follow these steps:
+Ready to dive into the chaos? Follow these steps:
 
-### Installing
+### Installing the Madness
 
-To install the Todo App, follow these steps:
+To get TaskMasterMayhem up and running, do this:
 
-1. Clone the repo:
+1. Clone this beast:
 
 ```bash
-git clone https://github.com/anudeep-gad12/TodoList
+git clone https://github.com/anudeep-gad12/TaskMasterMayhem
 ```
-
-2. Install the dependencies
-
 ```bash
 npm install
 ```
 
-3. Start
-
 ```bash
 npm run dev
-
 ```
